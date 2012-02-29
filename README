@@ -1,0 +1,13 @@
+To have some ideas about what Enigma is, open enigma.html in some
+browser supporting Java Applet.
+
+EnigmaAppCLI.java is the only thing new since checkouted the original
+source codes from http://russells.freeshell.org/enigma/ . It's used to
+do the same jobs as the applet does but at command line.
+
+The codes show how to do the algorithm without graphic interface, it
+just outputs the decrypted string from a hardcoded plain text with
+default settings. It is pretty simple, does not support setting from
+the command line options like normal unix programs do. I did this just
+because I have to finish the school assignment. And it's not so that
+good using GUI to do some repeatable jobs.
